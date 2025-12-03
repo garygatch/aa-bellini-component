@@ -1,0 +1,20 @@
+{
+  "type": "component",
+  "name": "aa",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [
+      {
+        "id": "R9PBFtf7-j3Ob_v6yRsS-",
+        "name": "a"
+      }
+    ],
+    "components": [],
+    "scripts": [],
+    "stylesheets": []
+  }
+}
